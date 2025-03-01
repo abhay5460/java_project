@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/Jar/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/commons-text-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/javax.mail.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/jboss-jstl-api_1.2_spec-1.0.3.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/json-20180130.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/logging-interceptor-3.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/mysql-connector-java-3.1.12.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/mysql-connector-java-commercial-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/Jar/razorpay-java-1.3.9.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
